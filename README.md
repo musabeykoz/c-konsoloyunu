@@ -1,4 +1,4 @@
-TARİH 2024
+TARİH: Ocak 2024
 
 C# ile yazılmış  konsolda çalışan basit oyun denemesidir
 
